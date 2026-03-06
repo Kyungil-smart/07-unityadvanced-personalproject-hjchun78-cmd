@@ -15,4 +15,6 @@ MonoBehaviour:
   itemName: "\"\uCD08\uBCF4\uC790\uC758 \uBC29\uD328\""
   type: 2
   value: 5
-  itemColor: {r: 0.11722924, g: 0.554717, b: 0, a: 1}
+  width: 1
+  height: 1
+  itemColor: {r: 0, g: 0.030238803, b: 0.690566, a: 1}
